@@ -1,0 +1,17 @@
+G:\Study\Lab\ScoringBowlingApp\ScroingAndBowlingApp\ScoringAndBowlingApp.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+G:\Study\Lab\ScoringBowlingApp\ScroingAndBowlingApp\ScoringAndBowlingApp.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+G:\Study\Lab\ScoringBowlingApp\ScroingAndBowlingApp\ScoringAndBowlingApp.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+G:\Study\Lab\ScoringBowlingApp\ScroingAndBowlingApp\ScoringAndBowlingApp.Tests\bin\Debug\netcoreapp2.1\ScoringAndBowlingApp.Tests.deps.json
+G:\Study\Lab\ScoringBowlingApp\ScroingAndBowlingApp\ScoringAndBowlingApp.Tests\bin\Debug\netcoreapp2.1\ScoringAndBowlingApp.Tests.runtimeconfig.json
+G:\Study\Lab\ScoringBowlingApp\ScroingAndBowlingApp\ScoringAndBowlingApp.Tests\bin\Debug\netcoreapp2.1\ScoringAndBowlingApp.Tests.runtimeconfig.dev.json
+G:\Study\Lab\ScoringBowlingApp\ScroingAndBowlingApp\ScoringAndBowlingApp.Tests\bin\Debug\netcoreapp2.1\ScoringAndBowlingApp.Tests.dll
+G:\Study\Lab\ScoringBowlingApp\ScroingAndBowlingApp\ScoringAndBowlingApp.Tests\bin\Debug\netcoreapp2.1\ScoringAndBowlingApp.Tests.pdb
+G:\Study\Lab\ScoringBowlingApp\ScroingAndBowlingApp\ScoringAndBowlingApp.Tests\bin\Debug\netcoreapp2.1\ScoringAndBowlingApp.dll
+G:\Study\Lab\ScoringBowlingApp\ScroingAndBowlingApp\ScoringAndBowlingApp.Tests\bin\Debug\netcoreapp2.1\ScoringAndBowlingApp.pdb
+G:\Study\Lab\ScoringBowlingApp\ScroingAndBowlingApp\ScoringAndBowlingApp.Tests\obj\Debug\netcoreapp2.1\ScoringAndBowlingApp.Tests.csprojAssemblyReference.cache
+G:\Study\Lab\ScoringBowlingApp\ScroingAndBowlingApp\ScoringAndBowlingApp.Tests\obj\Debug\netcoreapp2.1\ScoringAndBowlingApp.Tests.csproj.CoreCompileInputs.cache
+G:\Study\Lab\ScoringBowlingApp\ScroingAndBowlingApp\ScoringAndBowlingApp.Tests\obj\Debug\netcoreapp2.1\ScoringAndBowlingApp.Tests.AssemblyInfoInputs.cache
+G:\Study\Lab\ScoringBowlingApp\ScroingAndBowlingApp\ScoringAndBowlingApp.Tests\obj\Debug\netcoreapp2.1\ScoringAndBowlingApp.Tests.AssemblyInfo.cs
+G:\Study\Lab\ScoringBowlingApp\ScroingAndBowlingApp\ScoringAndBowlingApp.Tests\obj\Debug\netcoreapp2.1\ScoringAndBowlingApp.Tests.csproj.CopyComplete
+G:\Study\Lab\ScoringBowlingApp\ScroingAndBowlingApp\ScoringAndBowlingApp.Tests\obj\Debug\netcoreapp2.1\ScoringAndBowlingApp.Tests.dll
+G:\Study\Lab\ScoringBowlingApp\ScroingAndBowlingApp\ScoringAndBowlingApp.Tests\obj\Debug\netcoreapp2.1\ScoringAndBowlingApp.Tests.pdb

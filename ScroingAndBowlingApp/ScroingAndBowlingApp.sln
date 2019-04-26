@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScroingAndBowlingApp", "ScroingAndBowlingApp\ScroingAndBowlingApp.csproj", "{B5D7C010-79C3-41D3-A9F7-16C42BB82D1F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScoringAndBowlingApp", "ScroingAndBowlingApp\ScoringAndBowlingApp.csproj", "{B5D7C010-79C3-41D3-A9F7-16C42BB82D1F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScoringAndBowlingApp.Tests", "ScoringAndBowlingApp.Tests\ScoringAndBowlingApp.Tests.csproj", "{B1ADC56A-5783-4164-9E60-5018CB3F1DAD}"
 EndProject

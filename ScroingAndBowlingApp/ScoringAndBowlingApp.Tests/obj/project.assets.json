@@ -1673,6 +1673,19 @@
         "build": {
           "build/netcoreapp1.0/xunit.runner.visualstudio.props": {}
         }
+      },
+      "ScoringAndBowlingApp/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "dependencies": {
+          "Microsoft.NETCore.App": "2.1.0"
+        },
+        "compile": {
+          "bin/placeholder/ScoringAndBowlingApp.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ScoringAndBowlingApp.dll": {}
+        }
       }
     }
   },
@@ -5838,12 +5851,18 @@
         "xunit.runner.visualstudio.2.4.0.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "ScoringAndBowlingApp/1.0.0": {
+      "type": "project",
+      "path": "../ScroingAndBowlingApp/ScoringAndBowlingApp.csproj",
+      "msbuildProject": "../ScroingAndBowlingApp/ScoringAndBowlingApp.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
       "Microsoft.NET.Test.Sdk >= 15.9.0",
       "Microsoft.NETCore.App >= 2.1.0",
+      "ScoringAndBowlingApp >= 1.0.0",
       "xunit >= 2.4.0",
       "xunit.runner.visualstudio >= 2.4.0"
     ]
@@ -5877,7 +5896,11 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "G:\\Study\\Lab\\ScoringBowlingApp\\ScroingAndBowlingApp\\ScroingAndBowlingApp\\ScoringAndBowlingApp.csproj": {
+              "projectPath": "G:\\Study\\Lab\\ScoringBowlingApp\\ScroingAndBowlingApp\\ScroingAndBowlingApp\\ScoringAndBowlingApp.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -1,0 +1,11 @@
+G:\Study\Lab\ScoringBowlingApp\ScroingAndBowlingApp\ScroingAndBowlingApp\bin\Debug\netcoreapp2.1\ScoringAndBowlingApp.deps.json
+G:\Study\Lab\ScoringBowlingApp\ScroingAndBowlingApp\ScroingAndBowlingApp\bin\Debug\netcoreapp2.1\ScoringAndBowlingApp.runtimeconfig.json
+G:\Study\Lab\ScoringBowlingApp\ScroingAndBowlingApp\ScroingAndBowlingApp\bin\Debug\netcoreapp2.1\ScoringAndBowlingApp.runtimeconfig.dev.json
+G:\Study\Lab\ScoringBowlingApp\ScroingAndBowlingApp\ScroingAndBowlingApp\bin\Debug\netcoreapp2.1\ScoringAndBowlingApp.dll
+G:\Study\Lab\ScoringBowlingApp\ScroingAndBowlingApp\ScroingAndBowlingApp\bin\Debug\netcoreapp2.1\ScoringAndBowlingApp.pdb
+G:\Study\Lab\ScoringBowlingApp\ScroingAndBowlingApp\ScroingAndBowlingApp\obj\Debug\netcoreapp2.1\ScoringAndBowlingApp.csprojAssemblyReference.cache
+G:\Study\Lab\ScoringBowlingApp\ScroingAndBowlingApp\ScroingAndBowlingApp\obj\Debug\netcoreapp2.1\ScoringAndBowlingApp.csproj.CoreCompileInputs.cache
+G:\Study\Lab\ScoringBowlingApp\ScroingAndBowlingApp\ScroingAndBowlingApp\obj\Debug\netcoreapp2.1\ScoringAndBowlingApp.AssemblyInfoInputs.cache
+G:\Study\Lab\ScoringBowlingApp\ScroingAndBowlingApp\ScroingAndBowlingApp\obj\Debug\netcoreapp2.1\ScoringAndBowlingApp.AssemblyInfo.cs
+G:\Study\Lab\ScoringBowlingApp\ScroingAndBowlingApp\ScroingAndBowlingApp\obj\Debug\netcoreapp2.1\ScoringAndBowlingApp.dll
+G:\Study\Lab\ScoringBowlingApp\ScroingAndBowlingApp\ScroingAndBowlingApp\obj\Debug\netcoreapp2.1\ScoringAndBowlingApp.pdb

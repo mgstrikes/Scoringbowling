@@ -694,9 +694,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Study\\Lab\\ScoringBowlingApp\\ScroingAndBowlingApp\\ScroingAndBowlingApp\\ScroingAndBowlingApp.csproj",
-      "projectName": "ScroingAndBowlingApp",
-      "projectPath": "G:\\Study\\Lab\\ScoringBowlingApp\\ScroingAndBowlingApp\\ScroingAndBowlingApp\\ScroingAndBowlingApp.csproj",
+      "projectUniqueName": "G:\\Study\\Lab\\ScoringBowlingApp\\ScroingAndBowlingApp\\ScroingAndBowlingApp\\ScoringAndBowlingApp.csproj",
+      "projectName": "ScoringAndBowlingApp",
+      "projectPath": "G:\\Study\\Lab\\ScoringBowlingApp\\ScroingAndBowlingApp\\ScroingAndBowlingApp\\ScoringAndBowlingApp.csproj",
       "packagesPath": "C:\\Users\\manug\\.nuget\\packages\\",
       "outputPath": "G:\\Study\\Lab\\ScoringBowlingApp\\ScroingAndBowlingApp\\ScroingAndBowlingApp\\obj\\",
       "projectStyle": "PackageReference",
